@@ -1,0 +1,16 @@
+let qualquer = 'Legal'
+console.log(qualquer)
+console.log(typeof qualquer)
+
+qualquer = 3.1516
+console.log(qualquer)
+console.log(typeof qualquer)
+
+//Evite usar nomes genéricos e siglas
+let valor = ''
+let numero = 1
+let pqp = true   
+
+console.log(typeof valor)
+console.log(typeof numero)
+console.log(typeof pqp)
